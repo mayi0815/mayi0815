@@ -7,7 +7,7 @@
 
 
  # 🗄️ DB:
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgresql](https://img.shields.io/badge/Postgresql-00000F?style=for-the-badge&logo=Postgresql&logoColor=white) ![Nosql](https://img.shields.io/badge/Nosql-4EA94B?style=for-the-badge&logo=nosql&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 
